@@ -1,0 +1,14 @@
+A:\Balta.io\Programação Orientada a Objetos\Validador De Bandeira\Validador De Bandeira\bin\Debug\net8.0\Validador De Bandeira.exe
+A:\Balta.io\Programação Orientada a Objetos\Validador De Bandeira\Validador De Bandeira\bin\Debug\net8.0\Validador De Bandeira.deps.json
+A:\Balta.io\Programação Orientada a Objetos\Validador De Bandeira\Validador De Bandeira\bin\Debug\net8.0\Validador De Bandeira.runtimeconfig.json
+A:\Balta.io\Programação Orientada a Objetos\Validador De Bandeira\Validador De Bandeira\bin\Debug\net8.0\Validador De Bandeira.dll
+A:\Balta.io\Programação Orientada a Objetos\Validador De Bandeira\Validador De Bandeira\bin\Debug\net8.0\Validador De Bandeira.pdb
+A:\Balta.io\Programação Orientada a Objetos\Validador De Bandeira\Validador De Bandeira\obj\Debug\net8.0\Validador De Bandeira.GeneratedMSBuildEditorConfig.editorconfig
+A:\Balta.io\Programação Orientada a Objetos\Validador De Bandeira\Validador De Bandeira\obj\Debug\net8.0\Validador De Bandeira.AssemblyInfoInputs.cache
+A:\Balta.io\Programação Orientada a Objetos\Validador De Bandeira\Validador De Bandeira\obj\Debug\net8.0\Validador De Bandeira.AssemblyInfo.cs
+A:\Balta.io\Programação Orientada a Objetos\Validador De Bandeira\Validador De Bandeira\obj\Debug\net8.0\Validador De Bandeira.csproj.CoreCompileInputs.cache
+A:\Balta.io\Programação Orientada a Objetos\Validador De Bandeira\Validador De Bandeira\obj\Debug\net8.0\Validador De Bandeira.dll
+A:\Balta.io\Programação Orientada a Objetos\Validador De Bandeira\Validador De Bandeira\obj\Debug\net8.0\refint\Validador De Bandeira.dll
+A:\Balta.io\Programação Orientada a Objetos\Validador De Bandeira\Validador De Bandeira\obj\Debug\net8.0\Validador De Bandeira.pdb
+A:\Balta.io\Programação Orientada a Objetos\Validador De Bandeira\Validador De Bandeira\obj\Debug\net8.0\Validador De Bandeira.genruntimeconfig.cache
+A:\Balta.io\Programação Orientada a Objetos\Validador De Bandeira\Validador De Bandeira\obj\Debug\net8.0\ref\Validador De Bandeira.dll
